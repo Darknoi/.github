@@ -1,4 +1,4 @@
-## Lagodrom-studio
+## Darknoi
 Russian game developer team with 4 members.
 Currently working with Unreal Engine 5+ only.
 
