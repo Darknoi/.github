@@ -11,7 +11,7 @@ Progress carries over across 27 days, during which the secrets of the artifacts,
    
 Genre: Cooperative Horror-Management | Platform: PC | Players: 1–5
 
-Project Resources: [Discord](https://discord.gg/55UFskJjJy) | [Telegram](t.me/darknoidev)
+Project Resources: [Discord](https://discord.gg/55UFskJjJy) | [Telegram](https://t.me/darknoidev)
 <!--
 
 **Here are some ideas to get you started:**
