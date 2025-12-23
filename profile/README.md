@@ -1,5 +1,5 @@
 ## Darknoi
-Russian game developer team with ~2 members.
+Russian game developer team with ~3 members.
 Currently working with Unreal Engine 5+ only.
 
 
